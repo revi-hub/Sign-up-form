@@ -11,3 +11,7 @@ img, div, span, p, form, input, body, head {
     width: 34vw;
     height: 100vh;
 }
+
+button {
+    display: block;
+}
