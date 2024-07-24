@@ -1,0 +1,5 @@
+img, div, span, p, form, input, body, head {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
