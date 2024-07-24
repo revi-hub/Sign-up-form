@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Norse-Bold";
+    src: url(Norse-Bold.otf);
+}
+
 img, div, span, p, form, input, body, head {
     box-sizing: border-box;
     padding: 0;
@@ -14,4 +19,26 @@ img, div, span, p, form, input, body, head {
 
 button {
     display: block;
+}
+
+
+.logo-div {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    width: 100%;
+    color: white;
+    font-size: 6rem;
+    font-family: "Norse-Bold", sans-serif;
+    background-color: rgb(0, 0, 0, 60%);
+}
+
+.logo-div > img {
+    padding: 10px;
+    height: 100%;
+    width: 120px;
+}
+
+.logo-text {
+    padding-top: 30px;
 }
