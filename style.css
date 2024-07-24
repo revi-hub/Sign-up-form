@@ -3,3 +3,10 @@ img, div, span, p, form, input, body, head {
     padding: 0;
     margin: 0;
 }
+
+.img {
+    background-image: url(dhruvin-pandya-3hXaOp18nQU-unsplash.jpg);
+    background-size: cover;
+    width: 34vw;
+    height: 100vh;
+}
