@@ -6,6 +6,7 @@ img, div, span, p, form, input, body, head {
 
 .img {
     background-image: url(dhruvin-pandya-3hXaOp18nQU-unsplash.jpg);
+    float: left;
     background-size: cover;
     width: 34vw;
     height: 100vh;
