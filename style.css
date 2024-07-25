@@ -23,6 +23,7 @@ button {
 
 
 .logo-div {
+    margin-top: 200px;
     display: flex;
     justify-content: center;
     height: 150px;
