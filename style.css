@@ -38,6 +38,22 @@ button {
     background-color: rgb(0, 0, 0, 60%);
 }
 
+.logo-div + span {
+    font-size: 0.8rem;
+    margin-top: 45vh;
+    display: block;
+    text-align: center;
+    color: rgb(255, 255, 255, 78%);
+}
+
+.logo-div + span > a{
+    color: inherit;
+}
+
+.logo-div + span > a:hover{
+    color: white;
+}
+
 .logo-div > img {
     padding: 10px;
     height: 100%;
