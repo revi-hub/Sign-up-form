@@ -13,9 +13,12 @@ img, div, span, p, form, input, body, head {
     margin: 0;
 }
 
+body {
+    display: flex;
+}
+
 .img {
     background-image: url(lalo-hernandez-Amo081zdJsI-unsplash.jpg);
-    float: left;
     background-size: cover;
     width: 34vw;
     height: 100vh;
@@ -62,4 +65,17 @@ button {
 
 .logo-text {
     padding-top: 30px;
+}
+
+.cta {
+    background-color: rgb(250, 250, 250);
+    width: 66vw;
+}
+
+p {
+    max-width: 74ch;
+    display: block;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 160px 30px 50px 40px;
 }
