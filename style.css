@@ -155,3 +155,8 @@ button + span > a {
     color: #2596be;
     font-weight: bold;
 }
+
+.footer {
+    background-color: rgb(250, 250, 250);
+    height: 23vh;
+}
