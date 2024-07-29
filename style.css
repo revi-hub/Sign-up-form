@@ -150,7 +150,7 @@ button:hover {
     background-color: #2185a9;
 }
 
-span > a {
+button + span > a {
     text-decoration: none;
     color: #2596be;
     font-weight: bold;
