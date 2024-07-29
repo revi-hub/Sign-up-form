@@ -139,3 +139,14 @@ button {
     -moz-box-shadow: 0px 7px 14px -6px rgba(0,0,0,0.47);
     box-shadow: 0px 7px 14px -6px rgba(0,0,0,0.47);
 }
+
+button + span {
+    margin: 40px;
+    font-size: 0.9rem;
+}
+
+span > a {
+    text-decoration: none;
+    color: #2596be;
+    font-weight: bold;
+}
