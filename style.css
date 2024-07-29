@@ -145,6 +145,11 @@ button + span {
     font-size: 0.9rem;
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: #2185a9;
+}
+
 span > a {
     text-decoration: none;
     color: #2596be;
